@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Anuraag singh]!
 
 I'm a passionate **Web Developer** who loves crafting intuitive, beautiful, and high-performance web applications. 🚀 Welcome to my GitHub profile!
 
