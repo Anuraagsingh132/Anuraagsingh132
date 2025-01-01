@@ -8,7 +8,7 @@ I'm a passionate **Web Developer** who loves crafting intuitive, beautiful, and 
 - 🔭 Currently working on: [StreamVerse](https://streamverse.biz)
 - 🌱 Learning: Advanced **React**, **Node.js**, and **Next.js**
 - 💬 Ask me about: **Web Development**, **JavaScript**, and **CSS**
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 How to reach me: [Email](mailto:anuraagsingh10a@gmail.com) | [LinkedIn](https://linkedin.com/in/anuraag-singh-78b286306/)
 
 ---
 
@@ -32,7 +32,7 @@ I'm a passionate **Web Developer** who loves crafting intuitive, beautiful, and 
 - HD movie streaming platform with a modern UI.
 - Tech Stack: Next.js, Tailwind CSS, TypeScript, TMDb API.
 
-### [🛒 Shoply](https://github.com/your-username/shoply)
+### [🛒 Shoply](https://github.com/Anuraagsingh132/shoply)
 - E-commerce app featuring a sleek design and robust functionality.
 - Tech Stack: React, Redux, Firebase.
 
@@ -44,6 +44,6 @@ I'm a passionate **Web Developer** who loves crafting intuitive, beautiful, and 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://inkedin.com/in/anuraag-singh-78b286306/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://developer.streamverse.biz)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AnuraagSin5112)
