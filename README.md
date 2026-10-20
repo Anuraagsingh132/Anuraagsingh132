@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c29,50:182848,100:4b6cb7&height=220&section=header&text=Hi%2C%20I'm%20Anuraag%20Singh%20%F0%9F%9A%80&fontSize=42&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20VIT%20'26&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c29,50:182848,100:4b6cb7&height=220&section=header&text=Hi%2C%20I'm%20Anuraag%20Singh%20%F0%9F%9A%80&fontSize=42&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20VIT%20'27&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Anuraagsingh132">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Async+RAG+Pipeline+Architect;Modern+Web+%26+Next.js+%2F+React+19+Engineer;Compilers%2C+Edge+CV+%26+Systems+Builder;Undergrad+at+VIT+(Class+of+2026)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Async+RAG+Pipeline+Architect;Modern+Web+%26+Next.js+%2F+React+19+Engineer;Compilers%2C+Edge+CV+%26+Systems+Builder;Undergrad+at+VIT+(Class+of+2027)" alt="Typing SVG" />
   </a>
 
   <br />
